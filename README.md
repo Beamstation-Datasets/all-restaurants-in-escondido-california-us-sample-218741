@@ -9,9 +9,9 @@
 | Dataset ID | `218741` |
 | Location | Escondido |
 | Category | Restaurants |
-| Full dataset size | 355 records |
-| Free sample size | 35 records (9.86%) |
-| Last export | 2026-04-07T13:25:09.889139+00:00 |
+| Full dataset size | 351 records |
+| Free sample size | 35 records (9.97%) |
+| Last export | 2026-04-14T20:33:22.941818+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-escondido-california-us-sample-218741/releases/download/sample-latest/beamstation_218741_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample

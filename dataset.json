@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Local dining market data for Escondido in West Coast with a population of over 151k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Escondido, California, US",
-  "export_job_id": "989ea499-b600-4953-bd2f-2e6da5030dc8",
+  "export_job_id": "01940b3e-e1cc-4e72-a3e5-44f201bb00fc",
   "github_org": "Beamstation-Datasets",
   "id_short": 218741,
   "location_name": "Escondido",
   "location_type": "city",
   "repo_name": "all-restaurants-in-escondido-california-us-sample-218741",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/218741/beamstation_218741_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.86,
+  "sample_pct": 9.97,
   "sample_records": 35,
   "sample_sha256": "15757992bfaade032c296385c4c1928485fe560e12b3378cafb8cee448b3280f",
   "sample_size_bytes": 141147,
-  "total_records": 355,
-  "updated_at": "2026-04-07T13:25:09.889139+00:00"
+  "total_records": 351,
+  "updated_at": "2026-04-14T20:33:22.941818+00:00"
 }

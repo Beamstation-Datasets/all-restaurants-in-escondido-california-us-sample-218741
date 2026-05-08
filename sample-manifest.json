@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7a541c8a-7586-4506-abf1-4b8453cfed16",
+  "export_job_id": "b32a34fd-7c49-47a1-a192-c00bd8828531",
   "id_short": 218741,
-  "published_at": "2026-04-29T07:26:42Z",
+  "published_at": "2026-05-08T19:05:08Z",
   "repo_name": "all-restaurants-in-escondido-california-us-sample-218741",
   "sample_asset_name": "beamstation_218741_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/218741/beamstation_218741_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 36,
-  "sample_sha256": "ab35c5f8d2734a3ba9a45802693cfeabb8d63deaf81432a47bc295b0a34f5769",
-  "sample_size_bytes": 115001,
-  "total_records": 363
+  "sample_records": 37,
+  "sample_sha256": "dcd62b40108c8e61e868cf2bbe0a3fd84db2c51b95169653208bee4a0db82e6b",
+  "sample_size_bytes": 145618,
+  "total_records": 371
 }

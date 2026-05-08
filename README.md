@@ -1,6 +1,6 @@
 # All Restaurants in Escondido, California, US
 
-> Free BeamStation sample export with 36 rows and masked direct-contact fields.
+> Free BeamStation sample export with 37 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `218741` |
 | Location | Escondido |
 | Category | Restaurants |
-| Full dataset size | 363 records |
-| Free sample size | 36 records (9.92%) |
-| Last export | 2026-04-29T01:44:03.545918+00:00 |
+| Full dataset size | 371 records |
+| Free sample size | 37 records (9.97%) |
+| Last export | 2026-05-08T13:36:38.125327+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-escondido-california-us-sample-218741/releases/download/sample-latest/beamstation_218741_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
